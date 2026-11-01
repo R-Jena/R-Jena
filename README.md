@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20ML%20and%20Data%20Science%20%7C%20AI%20Orchestration%20%7C%20Finance%20Enthusiast&descAlignY=64&descSize=18)
 
 <p align="center">
-  <b>Open-Source Contributor | Active in LeetCode & GitHub</b>  <br/>
+  <b>Open-Source Contributor | Active in LeetCode, CodeForces & GitHub</b>  <br/>
 </p>
 
 <h3 align="center">AI/ML &nbsp;|&nbsp; Building Scalable Systems Using WebAssembly &nbsp;|&nbsp; Zero Backend</h3>
@@ -13,11 +13,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20SYSTEMS-08111f?style=for-the-badge&logo=openai&logoColor=7dd3fc" />
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0b132b?style=for-the-badge&logo=tensorflow&logoColor=ff8a65" />
-  <img src="https://img.shields.io/badge/FULL%20STACK%20PROJECTS-10243f?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/WEBASSEMBLY-10243f?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/DEVELOPER%20WORKFLOWS-123c69?style=for-the-badge&logo=git&logoColor=f97316" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=6&section=header" width="100%" />
 
 ---
 
@@ -93,8 +91,6 @@ The operating thesis is strictly utilitarian: computational layers must be secur
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-
 ---
 
 ## 🎓 Professional Network & Contact
@@ -111,161 +107,139 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 
 ---
 
-##  Core Engineering Projects
+## Core Engineering Projects
 
-> These are the foundational products designed, built, and shipped under the **Voxion Labs** umbrella.
+> These are the foundational products designed, built, and shipped under **Voxion Labs**
 
-###  [VoidLAB](https://github.com/Voxion-Labs/VoidLAB) — Zero Backend Browser Cloud IDE
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Cloud IDE |
-| **Status** | Active |
-| **Stack** | React, Next.js, Web Workers |
-| **Org** | Voxion Labs |
-
-  </td>
-  <td valign="top" width="62%">
-  A zero-latency, sandbox-isolated browser IDE for seamless cross-platform developer workflows. Features a multi-tab workspace, responsive file explorer, background compile threads via web workers, and multi-language execution — all operable from any device without installation.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/VoidLAB">VoidLAB</a></b><br/>
+      <i>Zero Backend Browser Cloud IDE</i>
+      <hr/>
+      A sandbox-isolated browser IDE for seamless cross-platform developer workflows. Features a multi-tab workspace, responsive file explorer, background compile threads via web workers, and multi-language execution — all operable from any device without installation.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Wasm · Socket.io · Docker
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/FluxKernel">FluxKernel</a></b><br/>
+      <i>Memory-Driven AI OS Agent</i>
+      <hr/>
+      A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, with a semantic vector memory backplane that maintains full context continuity across sessions.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Python · LangChain · Go
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-###  [FluxKernel](https://github.com/Voxion-Labs/FluxKernel) — Memory-Driven AI OS Agent
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | AI Agent Kernel |
-| **Status** | Active |
-| **Stack** | Python, LangChain, Vector DB |
-| **Org** | Voxion-Labs |
-
-  </td>
-  <td valign="top" width="62%">
-  A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, with a semantic vector memory backplane that maintains full context continuity across sessions.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/YooMates">YooMates</a></b><br/>
+      <i>Unified Collaborative Workspace</i>
+      <hr/>
+      Unified collaboration platform that combines real-time team communication, a public social feed and a private knowledge and execution workspace.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Javascript · Socket.io
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/LEXIO">LEXIO</a></b><br/>
+      <i>Text-To-Speech Engine</i>
+      <hr/>
+       A browser-native document narration and speech engineering workstation built with Go WebAssembly and web standards. Operates without remote server roundtrips, executing all document ingestion, phrase segmentation, speech synthesis directly on the browser
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Web Speech API · Javascript
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-###  [YooMates](https://github.com/Voxion-Labs/YooMates) — Unified Collaborative Workspace
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Collaboration Platform |
-| **Status** | Active |
-| **Stack** | TypeScript, Next.js, Socket.io |
-| **Org** | Voxion-Labs |
-
-  </td>
-  <td valign="top" width="62%">
-  A high-performance multi-user workspace with real-time state streaming, shared file trees, and concurrent terminal feeds. Optimized diff payloads and WebSocket frames keep synchronization latency under 15ms across all live sessions.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-labs/SkillNODE">SkillNODE</a></b><br/>
+      <i>Social Skill Acquisition Platform</i>
+      <hr/>
+      A full-stack monorepo web application for structured cognitive and technical skill training. It consolidates multi-domain practice environments, persistent user identity, challenge-based execution, AI coaching, fair-play monitoring, and real-time multiplayer into a single cohesive platform.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Node.js · Socket.io · React 
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/RedTerminal">RedTerminal</a></b><br/>
+      <i>C-Based OS Process Simulator</i>
+      <hr/>
+      A workstation operating directly in the browser and as a toggleable Manifest V3 overlay extension for security analysis, data crunching, and WebAssembly execution.
+      <br/><br/>
+      <b>Stack</b><br/>
+      C11 · POSIX Threads · Go · Wasm
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-###  [LEXIO](https://github.com/Voxion-Labs/LEXIO) — Premium Text-To-Speech Engine
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | TTS Web Application |
-| **Status** | Active |
-| **Stack** | JavaScript, Web Speech API |
-| **Org** | Voxion-Labs |
-
-  </td>
-  <td valign="top" width="62%">
-  A premium, real-time TTS engine with dynamic voice selection (male/female), regional accent modulation, and real-time sentence highlighting. Handles multi-format documents with low-latency segment parsing for seamless, clip-free audio streaming.
-  </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/liambrooks-lab/leetcode-stack">leetcode-stack</a></b><br/>
+      <i>DSA & Core Algorithm Vault</i>
+      <hr/>
+      A structured repository of algorithmic solutions and data structures implemented in C++ and Python. It serves as an active log of LeetCode problem-solving, focusing on time and space complexity optimization.
+      <br/><br/>
+      <b>Stack</b><br/>
+      C++ · Python · Javascript
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b><a href="https://github.com/Voxion-Labs/Aabhas">Aabhas</a></b><br/>
+      <i>Shadow Memory Grid & Tensor Streaming Engine</i>
+      <hr/>
+      A memory allocator and out-of-core tensor streaming engine designed for large language model inference. It utilizes a C++/Rust core to bypass standard OS page-table overhead, enabling direct NVMe-to-CPU layer drops enforcing strict memory caps and adaptive I/O scheduling to maintain host OS stability while executing massive parameter models.
+      <br/><br/>
+      <b>Stack</b><br/>
+      C++ · Rust · Go
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-###  [SkillNODE](https://github.com/Voxion-labs/SkillNODE) — Social Skill Acquisition Platform
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Skill-Dev Platform |
-| **Status** | Active |
-| **Stack** | Node.js, Socket.io, React, MongoDB |
-| **Org** | Voxion-Labs |
-
-  </td>
-  <td valign="top" width="62%">
-  A multi-page interactive platform combining rigorous programming practice, competitive live coding rooms, and AI-guided study tracks. Real-time multiplayer arenas let developers solve complex algorithm challenges in shared collaborative environments.
-  </td>
-  </tr>
-</table>
-
----
-
-###  [RedTerminal](https://github.com/Voxion-Labs/RedTerminal) — C-Based OS Process Simulator
-
-<table>
-  <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | Systems Simulator + Web Demo |
-| **Status** | Active |
-| **Stack** | C11, POSIX Threads, Vanilla JS |
-| **Org** | Voxion-Labs |
-| **Live Demo** | [voxion-labs.github.io/RedTerminal](https://voxion-labs.github.io/RedTerminal/) |
-
-  </td>
-  <td valign="top" width="62%">
-  A lightweight systems-level C project demonstrating OS fundamentals: process lifecycle management, CPU scheduling via POSIX threads, thread-safe async logging, and a striking Vanilla JS browser terminal emulator. Features a glassmorphism UI with OS-style boot sequences, real-time telemetry sidebar, and full command history — all with zero external dependencies.
-  </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-
----
-###  [leetcode-stack](https://github.com/liambrooks-lab/leetcode-stack) — DSA & Core Algorithm Vault
-
-<table>
-  <tr>
-    <td valign="top" width="38%">
-
-| Field | Details |
-| :--- | :--- |
-| **Type** | DSA & Core Algorithm Vault |
-| **Status** | Active Execution |
-| **Stack** | C++, Python, Javascript |
-| **GitHub** | liambrooks-lab |
-
-  </td>
-  <td valign="top" width="62%">
-  A structured repository of algorithmic solutions and data structures implemented in C++ and Python. It serves as an active log of LeetCode problem-solving, focusing on time and space complexity optimization.
-  </td>
+    <td colspan="2" valign="top">
+      <br/>
+      <b><a href="https://github.com/liambrooks-lab/Codeforces-Algorithms">Codeforces-Algorithms</a></b><br/>
+      <i>Competitive Programming Workspace</i>
+      <hr/>
+      A version-controlled workspace for Codeforces problem-solving categorized by difficulty rating and contest structure using Python and Golang as bilingual stack.
+      <br/><br/>
+      <b>Stack</b><br/>
+      Go · Python · C++
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
@@ -278,25 +252,19 @@ The operating thesis is strictly utilitarian: computational layers must be secur
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub><b>Node.js</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=go" width="48" /><br/><sub><b>Go</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="48" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-
 ---
 
-##  Other Engineering Implementations
+##  Other Projects & Implementations
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -305,7 +273,6 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 |  <a href="https://github.com/liambrooks-lab/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
 |  <a href="https://github.com/Voxion-Labs/Empty_Pointer">Empty_Pointer</a> | C++, Raylib, WebAssembly | A grid-based action-survival game built natively in C++ with the Raylib framework. Navigate the system, merge bit values, and evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install browser play. |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
 
 ---
 
@@ -320,8 +287,6 @@ The operating thesis is strictly utilitarian: computational layers must be secur
   <img src="assets/activity-graph.svg" alt="Commit Activity Graph" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1f,100:123c69&height=5&section=header" width="100%" />
-
 ---
 
 ## Current Focus
@@ -330,8 +295,43 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 | :--- | :--- |
 |  AI & Machine Learning | Building production-grade ML pipelines and intelligent agent systems |
 |  Systems Engineering | Designing low-latency sandboxes and memory-persistent multi-agent architectures |
-|  Game Development | Advancing **ApexProtocol** — a large-scale sci-fi survival horror experience |
 |  DSA & Foundations | Sharpening algorithmic problem-solving and atatistics for complex system design |
+
+---
+
+<h2 align="center">HOW I THINK</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Build</b>
+      <br/><br/>
+      Turn an idea into something tangible.
+      <br/><br/>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <br/>
+      <b>Break</b>
+      <br/><br/>
+      Question assumptions and test boundaries.
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Learn</b>
+      <br/><br/>
+      Understand what actually happened.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Build → Break → Understand → Improve</b>
+</p>
+
+---
 
 ## Vision
 
