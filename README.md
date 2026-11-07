@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20ML%20and%20Data%20Science%20%7C%20AI%20Orchestration%20%7C%20Finance%20Enthusiast&descAlignY=64&descSize=18)
 
 <p align="center">
-  <b>Open-Source Contributor | Active in LeetCode, CodeForces & GitHub</b>  <br/>
+  <b>Active in LeetCode, CodeForces & GitHub</b>  <br/>
 </p>
 
 <h3 align="center">AI/ML &nbsp;|&nbsp; Building Scalable Systems Using WebAssembly &nbsp;|&nbsp; Zero Backend</h3>
@@ -56,7 +56,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
     <td width="48%" valign="top">
       <h4>🌐 <a href="https://github.com/Voxion-Labs/VXR-Continuum">VXR-Continuum</a></h4>
       <b>Distributed P2P Edge State Synchronization Simulator</b><br/><br/>
-      A continuous state-persistence backplane and low-latency memory routing network. Uses CRDT-based algorithmic conflict resolution with 0.22ms sync latency and vector drift at 0.00% across P2P nodes — ensuring seamless multi-agent task continuity.
+      A continuous state-persistence backplane and low-latency memory routing network. Uses CRDT-based algorithmic conflict resolution with 0.22ms sync latency and lowest vector drift across P2P nodes — ensuring seamless multi-agent task continuity.
       <br/><br/>
       <code>Python</code> &nbsp; <code>CRDT</code> &nbsp; <code>P2P</code> &nbsp; <code>Vector State</code>
     </td>
@@ -132,7 +132,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
       A persistent, memory-driven AI agent that operates directly on local filesystems. Routes tasks between cloud LLMs and local models using self-correcting git-diff patches, with a semantic vector memory backplane that maintains full context continuity across sessions.
       <br/><br/>
       <b>Stack</b><br/>
-      Python · LangChain · Go
+      Python · LangChain · Go · Docker
       <br/><br/>
     </td>
   </tr>
@@ -161,7 +161,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
        A browser-native document narration and speech engineering workstation built with Go WebAssembly and web standards. Operates without remote server roundtrips, executing all document ingestion, phrase segmentation, speech synthesis directly on the browser
       <br/><br/>
       <b>Stack</b><br/>
-      Go · Web Speech API · Javascript
+      Go · Web Speech API · Go Templates 
       <br/><br/>
     </td>
   </tr>
@@ -179,7 +179,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
       A full-stack monorepo web application for structured cognitive and technical skill training. It consolidates multi-domain practice environments, persistent user identity, challenge-based execution, AI coaching, fair-play monitoring, and real-time multiplayer into a single cohesive platform.
       <br/><br/>
       <b>Stack</b><br/>
-      Node.js · Socket.io · React 
+      Docker · Socket.io · Go  · Wasm
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -190,7 +190,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
       A workstation operating directly in the browser and as a toggleable Manifest V3 overlay extension for security analysis, data crunching, and WebAssembly execution.
       <br/><br/>
       <b>Stack</b><br/>
-      C11 · POSIX Threads · Go · Wasm
+      C · POSIX Threads · Go · Wasm
       <br/><br/>
     </td>
   </tr>
@@ -202,13 +202,13 @@ The operating thesis is strictly utilitarian: computational layers must be secur
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <b><a href="https://github.com/liambrooks-lab/leetcode-stack">leetcode-stack</a></b><br/>
+      <b><a href="https://github.com/R-Jena/leetcode-stack">leetcode-stack</a></b><br/>
       <i>DSA & Core Algorithm Vault</i>
       <hr/>
       A structured repository of algorithmic solutions and data structures implemented in C++ and Python. It serves as an active log of LeetCode problem-solving, focusing on time and space complexity optimization.
       <br/><br/>
       <b>Stack</b><br/>
-      C++ · Python · Javascript
+      C++ · Python · Go
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -231,13 +231,13 @@ The operating thesis is strictly utilitarian: computational layers must be secur
   <tr>
     <td colspan="2" valign="top">
       <br/>
-      <b><a href="https://github.com/liambrooks-lab/Codeforces-Algorithms">Codeforces-Algorithms</a></b><br/>
+      <b><a href="https://github.com/R-Jena/Codeforces-Algorithms">Codeforces-Algorithms</a></b><br/>
       <i>Competitive Programming Workspace</i>
       <hr/>
       A version-controlled workspace for Codeforces problem-solving categorized by difficulty rating and contest structure using Python and Golang as bilingual stack.
       <br/><br/>
       <b>Stack</b><br/>
-      Go · Python · C++
+      Go · C++
       <br/><br/>
     </td>
   </tr>
@@ -268,9 +268,9 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-|  <a href="https://github.com/liambrooks-lab/ApexProtocol">ApexProtocol</a> | C#, C++ | An upcoming, large-scale sci-fi survival horror experience currently in active development. Focuses on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines. |
-|  <a href="https://github.com/liambrooks-lab/VoidLAB-Beta">VoidLAB-Beta</a> | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
-|  <a href="https://github.com/liambrooks-lab/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
+|  <a href="https://github.com/R-Jena/ApexProtocol">ApexProtocol</a> | C#, C++ | An upcoming, large-scale sci-fi survival horror experience currently in active development. Focuses on atmospheric world-building, survival mechanics, and performance-critical native rendering pipelines. |
+|  <a href="https://github.com/R-Jena/VoidLAB-Beta">VoidLAB-Beta</a> | JS, HTML5, Web Workers | Initial experimental prototype of VoidLAB. Explored sandboxed client-side JS and Python execution models that seeded the full IDE design. |
+|  <a href="https://github.com/R-Jena/Point_Null">Point_Null</a> | Python, Pygame, Pygbag | A 2D top-down action-survival game set in a dark, corrupted environment. The player destroys incoming enemies, collects scrap, and spends it to build safe-zone nodes. Runs in-browser via Pygbag WebAssembly compilation. |
 |  <a href="https://github.com/Voxion-Labs/Empty_Pointer">Empty_Pointer</a> | C++, Raylib, WebAssembly | A grid-based action-survival game built natively in C++ with the Raylib framework. Navigate the system, merge bit values, and evade Red-Code algorithms. Compiled directly to WebAssembly for zero-install browser play. |
 
 
