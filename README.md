@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0b132b,100:123c69&height=220&section=header&text=Rudranarayan%20Jena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Founder%20%40%20Voxion%20Labs%20%7C%20ML%20and%20Data%20Science%20%7C%20AI%20Orchestration%20%7C%20Finance%20Enthusiast&descAlignY=64&descSize=18)
 
 <p align="center">
-  <b>Active in LeetCode, CodeForces & GitHub</b>  <br/>
+  <b>Active in LeetCode, CodeForces, GitHub & ORCID</b>  <br/>
 </p>
 
 <h3 align="center">AI/ML &nbsp;|&nbsp; Building Scalable Systems Using WebAssembly &nbsp;|&nbsp; Zero Backend</h3>
@@ -19,7 +19,7 @@
 
 ---
 
-##  Professional Profile & Philosophy
+##  Overview and  Philosophy
 
 I am Rudranarayan Jena, the founder of **Voxion Labs**. As a systems programmer and **ML engineer**, my work focuses on the exact intersection of high-performance infrastructure, applied machine learning, and secure operating environments.
 While I architect zero-backend web applications, my primary focus remains engineering stateful, distributed architectures strictly designed for maximum scale. My core engineering involves low-level sandboxing via **WebAssembly**, multi-agent orchestration, and optimizing complex neural network pipelines directly for production.
@@ -54,7 +54,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <h4>🌐 <a href="https://github.com/Voxion-Labs/VXR-Continuum">VXR-Continuum</a></h4>
+      <h4><a href="https://github.com/Voxion-Labs/VXR-Continuum">VXR-Continuum</a></h4>
       <b>Distributed P2P Edge State Synchronization Simulator</b><br/><br/>
       A continuous state-persistence backplane and low-latency memory routing network. Uses CRDT-based algorithmic conflict resolution with 0.22ms sync latency and lowest vector drift across P2P nodes — ensuring seamless multi-agent task continuity.
       <br/><br/>
@@ -64,15 +64,15 @@ The operating thesis is strictly utilitarian: computational layers must be secur
   <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td width="48%" valign="top">
-      <img src="assets/vxr_sandbox_preview.png" alt="VXR-Sandbox Preview" width="100%" />
+      <img src="https://github.com/Voxion-Labs/.github/raw/main/assets/vxr_thesis_preview.png" alt="VXR-Thesis Preview" width="100%" />
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <h4>🌐 <a href="https://github.com/Voxion-Labs/VXR-Sandbox">VXR-Sandbox</a></h4>
-      <b>Cyber-Defense Dashboard · Zero-backend Prompt Injection Defense</b><br/><br/>
-      A high-security, browser-native prompt injection detection engine powered by a WebAssembly kernel. All analysis runs locally — no data leaves the device. Delivers real-time threat assessment results via an in-browser Wasm runtime without any page reloads.
+      <h4><a href="https://github.com/Voxion-Labs/VXR-Thesis">VXR-Thesis</a></h4>
+      <b>Custom Memory Allocation · WebAssembly Workloads in Constrained Edge Environments</b><br/><br/>
+      A high-integrity, edge-native systems research framework demonstrating deterministic O(1) slab allocation, monotonic arena bounding, and direct linear memory ring buffering to eliminate boundary serialization penalties on 512MB RAM edge instances.
       <br/><br/>
-      <code>WebAssembly</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Cyber-Defense</code> &nbsp; <code>Wasm Kernel</code>
+      <code>WebAssembly</code> &nbsp; <code>Custom Memory Allocation</code> &nbsp; <code>Local-Only</code>
     </td>
   </tr>
   <tr><td colspan="3"><br/></td></tr>
@@ -82,7 +82,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <h4>🌐 <a href="https://github.com/Voxion-Labs/Aegis-IR">Aegis-IR</a></h4>
+      <h4><a href="https://github.com/Voxion-Labs/Aegis-IR">Aegis-IR</a></h4>
       <b>Deterministic Memory for Browser-Native Search</b><br/><br/>
       Aegis-IR isolates the ranking kernel inside WebAssembly linear memory so allocation-heavy search avoids V8 garbage-collection pressure and reduces main-thread stutter. Operates at 0.000ms thread blocking with a GC-neutral 3.2 KB linear memory allocation across a 5-document corpus.
       <br/><br/>
@@ -95,13 +95,16 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 
 ## 🎓 Professional Network & Contact
 
-| Platform | Handle | Description |
+| Platform | Handle / Profile | Description |
 | :--- | :--- | :--- |
-|  LinkedIn | <a href="https://www.linkedin.com/in/rudranarayan-jena-88845b2a9/"><b>Rudranarayan Jena</b></a> | Professional network, career updates |
-|  Instagram | <a href="https://www.instagram.com/rjena_?igsh=ems3MDZ3Zmo0dDN5"><b>@rjena_</b></a> | AI research updates & behind-the-scenes |
-|  X | <a href="https://x.com/RJena_"><b>@RJena_</b></a> | Tech thoughts & quick updates |
-| Email (Primary) | <a href="mailto:rudrajena.ventures@outlook.com"><b>rudrajena.ventures@outlook.com</b></a> |  Lab & project communications |
-| Email (Alt) | <a href="mailto:RN.Jena@outlook.com"><b>RN.Jena@outlook.com</b></a> | General inquiries & collaborations |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/rudranarayan-jena-88845b2a9/"><b>Rudranarayan Jena</b></a> | Professional network, career updates |
+| **Instagram** | <a href="https://www.instagram.com/rjena_?igsh=ems3MDZ3Zmo0dDN5"><b>@rjena_</b></a> | AI research updates & behind-the-scenes |
+| **X** | <a href="https://x.com/RJena_"><b>@RJena_</b></a> | Tech thoughts & quick updates |
+| **Codeforces** | <a href="https://codeforces.com/profile/liambrooks-lab"><b>R-Jena</b></a> | Competitive programming & algorithmic problem-solving |
+| **LeetCode** | <a href="https://leetcode.com/u/R-Jena/"><b>@R-Jena</b></a> | Data structures, algorithms & competitive coding |
+| **ORCID** | <a href="https://orcid.org/0009-0008-3452-2874"><b>Rudranarayan Jena</b></a> | Academic identity, research contributions & publications |
+| **Email** | <a href="mailto:rudrajena.ventures@outlook.com"><b>rudrajena.ventures@outlook.com</b></a> | Lab & project communications |
+| **Email** | <a href="mailto:RN.Jena@outlook.com"><b>RN.Jena@outlook.com</b></a> | General inquiries & collaborations |
 
 >  *Open to ML architecture discussions, full-stack opportunities, and collaborative AI projects.*
 
@@ -251,7 +254,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" /><br/><sub><b>Python</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="48" /><br/><sub><b>C</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=wasm" width="48" /><br/><sub><b>WebAssembly</b></sub></td>
   </tr>
   <tr>
@@ -299,7 +302,7 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 
 ---
 
-<h2 align="center">HOW I THINK</h2>
+<h2 align="center">MY APPROACH</h2>
 
 <table width="100%">
   <tr>
@@ -340,4 +343,4 @@ The operating thesis is strictly utilitarian: computational layers must be secur
 >
 >Translating complex architecture into lag-free reality at **Voxion Labs**
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Designing%20Intelligent%20Systems&fontSize=28&fontColor=ffffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:123c69,50:0b132b,100:050816&height=150&section=footer&text=Dhanyavad%20!&fontSize=28&fontColor=ffffff&animation=fadeIn)
